@@ -1,4 +1,4 @@
-### Hi ther
+### Olá, é o Samuel Matsuo aqui!
 
 
 **samuelmatsuo/samuelmatsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
